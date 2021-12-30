@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryTree">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAAAAAAABAAQAQAAAAAAAAAAAAAEgAEAAAAAAAAA=</HashCode>
+      <FileName>BinaryTree.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinarySearchTree">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAEBABAAAAAAAAIAAAQAAABACAAECAAAAAAAAA=</HashCode>
+      <FileName>BinarySearchTree.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BTNode">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAAAAAAIAAAAAAAQAAAAgAA=</HashCode>
+      <FileName>NodeTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
